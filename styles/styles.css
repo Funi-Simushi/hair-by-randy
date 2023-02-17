@@ -4,20 +4,24 @@ html {
 
 body {
     background-color: #333;
-    color: whitesmoke;
+    color: #fff;
+    position: relative;
+    padding-top: 50px;
+    padding-right: 20px;
 }       
 
 nav {
     background-color:#ECB278;
     height: 60px;
     position: fixed;
-    top: 1%;
+    top: 0;
     left: 0;
     width: 100%;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 20px;
+    padding: 0 30px;s
+    z-index: 0;
 }
 
 nav a {
