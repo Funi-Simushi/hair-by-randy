@@ -7,7 +7,7 @@ body {
     color: #fff;
     position: relative;
     padding-top: 50px;
-    padding-right: 20px;
+    padding-right: 50px;
 }       
 
 nav {
@@ -17,11 +17,11 @@ nav {
     top: 0;
     left: 0;
     width: 100%;
+    margin-right: 70px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 30px;s
-    z-index: 0;
+    padding: 0 30px;
 }
 
 nav a {
@@ -46,3 +46,4 @@ table, tr, th, td, caption {
     border-collapse: collapse;
     padding: 0.5rem;
 }
+
