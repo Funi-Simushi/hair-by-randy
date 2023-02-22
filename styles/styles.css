@@ -47,3 +47,4 @@ table, tr, th, td, caption {
     padding: 0.5rem;
 }
 
+tr:hover {background-color: #983E3E;}
